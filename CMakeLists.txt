@@ -10,4 +10,4 @@ link_directories(./lib/stb-master)
 include_directories(./lib/sce_vectormath-master)
 link_directories(./lib/sce_vectormath-master)
 
-add_executable(Raytrace_CPP main.cpp rayt.cpp rayt.h)
+add_executable(Raytrace_CPP main.cpp rayt.h)

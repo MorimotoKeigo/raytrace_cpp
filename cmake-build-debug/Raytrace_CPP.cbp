@@ -89,9 +89,6 @@
 		<Unit filename="/Users/keigo/CLionProjects/Raytrace_CPP/main.cpp">
 			<Option target="Raytrace_CPP"/>
 		</Unit>
-		<Unit filename="/Users/keigo/CLionProjects/Raytrace_CPP/rayt.cpp">
-			<Option target="Raytrace_CPP"/>
-		</Unit>
 		<Unit filename="/Users/keigo/CLionProjects/Raytrace_CPP/rayt.h">
 			<Option target="Raytrace_CPP"/>
 		</Unit>

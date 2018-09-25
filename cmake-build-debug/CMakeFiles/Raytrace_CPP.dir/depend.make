@@ -10,5 +10,3 @@ CMakeFiles/Raytrace_CPP.dir/main.cpp.o: .././lib/stb-master/stb_image_write.h
 CMakeFiles/Raytrace_CPP.dir/main.cpp.o: ../main.cpp
 CMakeFiles/Raytrace_CPP.dir/main.cpp.o: ../rayt.h
 
-CMakeFiles/Raytrace_CPP.dir/rayt.cpp.o: ../rayt.cpp
-

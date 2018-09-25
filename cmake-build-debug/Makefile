@@ -150,33 +150,6 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/Raytrace_CPP.dir/build.make CMakeFiles/Raytrace_CPP.dir/main.cpp.s
 .PHONY : main.cpp.s
 
-rayt.o: rayt.cpp.o
-
-.PHONY : rayt.o
-
-# target to build an object file
-rayt.cpp.o:
-	$(MAKE) -f CMakeFiles/Raytrace_CPP.dir/build.make CMakeFiles/Raytrace_CPP.dir/rayt.cpp.o
-.PHONY : rayt.cpp.o
-
-rayt.i: rayt.cpp.i
-
-.PHONY : rayt.i
-
-# target to preprocess a source file
-rayt.cpp.i:
-	$(MAKE) -f CMakeFiles/Raytrace_CPP.dir/build.make CMakeFiles/Raytrace_CPP.dir/rayt.cpp.i
-.PHONY : rayt.cpp.i
-
-rayt.s: rayt.cpp.s
-
-.PHONY : rayt.s
-
-# target to generate assembly for a file
-rayt.cpp.s:
-	$(MAKE) -f CMakeFiles/Raytrace_CPP.dir/build.make CMakeFiles/Raytrace_CPP.dir/rayt.cpp.s
-.PHONY : rayt.cpp.s
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -189,9 +162,6 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
-	@echo "... rayt.o"
-	@echo "... rayt.i"
-	@echo "... rayt.s"
 .PHONY : help
 
 
